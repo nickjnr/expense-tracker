@@ -1,4 +1,5 @@
 # Expense Tracker Application
+##Copyrights: NickDevOps (Developer)
 This is a simple Expense Tracker application built using Vue 3 Composition API. The application helps users track their income and expenses, providing a clear overview of their financial transactions.
 
 # Features

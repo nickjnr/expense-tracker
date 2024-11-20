@@ -1,5 +1,5 @@
 <template>
-    <h1>My Expense App</h1>
+    <h1>My Cashflow Tracker</h1>
 </template>
 
 <script>
